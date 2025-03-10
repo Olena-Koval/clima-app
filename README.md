@@ -27,4 +27,4 @@ Una aplicación que muestra el clima actual en una ciudad utilizando la API de O
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/clima-app.git
+   git clone https://github.com/Olena-Koval/clima-app
